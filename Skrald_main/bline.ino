@@ -1,6 +1,3 @@
-#include <Wire.h>
-#include <Zumo32U4.h>
-#include <drive.h>
 
 //Calibrate the line sensors
 void calibrateLineSensorsAuto(){
