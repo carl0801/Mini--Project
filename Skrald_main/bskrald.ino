@@ -1,3 +1,4 @@
+
 char garbage(){
   //Use the linesensors to make the zumo turn the right way
   while(true){
@@ -37,7 +38,7 @@ char garbage(){
       break;
     }
   }   
-  //Check witch can that come (if it is close or far)
+  //Check witch can that comes (if it is close or far)
   while(true){
     display.clear();
     lineSensors.emittersOn();
